@@ -1,0 +1,16 @@
+APUNTES DE GIT Y GITHUB
+
+- GitHub es una plataforma para guardar proyectos en la nube.
+- Un repositorio es donde se almacena el proyecto.
+- Un commit es un cambio guardado en el repositorio.
+- Una rama (branch) permite trabajar sin afectar la versión principal.
+- main es la rama principal.
+- desarrollo es una rama secundaria creada para hacer cambios.
+- Un merge une los cambios de una rama a otra.
+- El historial (commits) muestra todos los cambios realizados.
+
+Práctica realizada:
+- Creación de repositorio
+- Edición de archivos
+- Creación de ramas
+- Merge de ramas
